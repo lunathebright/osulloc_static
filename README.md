@@ -1,2 +1,2 @@
-# osulloc-staticWeb
+# osulloc_static
  
